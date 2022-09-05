@@ -1,2 +1,2 @@
 #!/bin/badh
-hello, world
+echo "hello, world"

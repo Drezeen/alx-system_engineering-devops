@@ -1,1 +1,1 @@
-a script that creates an alias
+a script that counts the number of directories in the PATH

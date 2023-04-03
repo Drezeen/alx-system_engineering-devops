@@ -142,8 +142,6 @@ root@966c5664b21f:/#
 
 ```
 
-**Repo:**
+**Repo:**.
+by andy the programmer
 
--   GitHub repository: `alx-system_engineering-devops`
--   Directory: `0x0E-web_stack_debugging_1`
--   File: `1-debugging_made_short`

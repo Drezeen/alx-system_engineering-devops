@@ -1,7 +1,4 @@
-What happens when you type google.com in your browser and press Enter
-=====================================================================
 
-![An image describing enter touch on a keyboard](https://miro.medium.com/max/1400/1*1NuSjTdxAYYaYiLjeP3avg.jpeg)
 
 Enter key on a keyboard
 

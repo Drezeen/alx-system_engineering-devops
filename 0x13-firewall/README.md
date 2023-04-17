@@ -1,19 +1,3 @@
-0x13. Firewall
-==============
-
--   By Sylvain Kalache, co-founder at Holberton School
-
-Concepts
---------
-
-*For this project, students are expected to look at this concept:*
-
--   [Web stack debugging](https://alx-intranet.hbtn.io/concepts/68)
-
-![](https://s3.amazonaws.com/intranet-projects-files/holbertonschool-sysadmin_devops/284/V1HjQ1Y.png)
-
-Background Context
-------------------
 
 ### Your servers without a firewall...
 

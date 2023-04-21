@@ -182,4 +182,3 @@ That is one way of publishing your website pages to your server.
 -   GitHub repository: `alx-system_engineering-devops`
 -   Directory: `0x0C-web_server`
 -   File: `0-transfer_file`
-by andy the programmer

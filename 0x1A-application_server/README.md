@@ -33,16 +33,4 @@ Upstart script to keep the application running on server reboots.
 
 * **5. Serve your AirBnB clone**
   * In this task, I configured the complete AirBnB app from [AirBnB_clone_v4](https://github.com/aysuarex/AirBnB_clone_v4) to run on Gunicorn and be served through Nginx.
-  * [5-app_server-nginx_config](./5-app_server-nginx_config): Nginx configuration file
-  configured to serve the static assets from `web_dynamic/static/` on the Gunicorn AirBnB
-  app.
 
-* **6. Deploy it**
-  * [gunicorn.conf](./gunicorn.conf): Configuration file for an Upstart script that starts a
-  Gunicorn process bounded to port 5003 that serves the content from task 5.
-  * The Gunicorn process spawns three worker processes and logs errors to `/tmp/airbnb-error.log`,
-  access to `/tmp/airbnb-access.log`.
-
-* **7. No service interruption**
-  * [4-reload_gunicorn_no_downtime](./4-reload_gunicorn_no_downtime): Bash script that gracefully
-  reloads Gunicorn.

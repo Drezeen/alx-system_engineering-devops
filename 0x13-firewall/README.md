@@ -1,11 +1,6 @@
 0x13. Firewall
 ==============
 
--   By Sylvain Kalache, co-founder at Holberton School
-
-Concepts
---------
-
 *For this project, students are expected to look at this concept:*
 
 -   [Web stack debugging](https://alx-intranet.hbtn.io/concepts/68)
